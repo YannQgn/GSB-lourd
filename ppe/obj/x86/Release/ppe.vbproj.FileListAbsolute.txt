@@ -1,0 +1,7 @@
+C:\Users\gamer\onedrive\documents\visual studio 2010\Projects\ppe\ppe\obj\x86\Release\ppe.Accueil.resources
+C:\Users\gamer\onedrive\documents\visual studio 2010\Projects\ppe\ppe\obj\x86\Release\ppe.AfficheCompteRendu.resources
+C:\Users\gamer\onedrive\documents\visual studio 2010\Projects\ppe\ppe\obj\x86\Release\ppe.AjouterMed.resources
+C:\Users\gamer\onedrive\documents\visual studio 2010\Projects\ppe\ppe\obj\x86\Release\ppe.FormSaisie.resources
+C:\Users\gamer\onedrive\documents\visual studio 2010\Projects\ppe\ppe\obj\x86\Release\ppe.Resources.resources
+C:\Users\gamer\onedrive\documents\visual studio 2010\Projects\ppe\ppe\obj\x86\Release\ppe.vbproj.GenerateResource.Cache
+C:\Users\gamer\onedrive\documents\visual studio 2010\Projects\ppe\ppe\bin\Release\ppee.exe.config
